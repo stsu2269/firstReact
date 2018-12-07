@@ -1,1 +1,2 @@
-This is my first github program, learn to how ot use the github.
+This is my first github program, learn about how to use the github.
+Modify the text from new branch. 
